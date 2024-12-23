@@ -1,5 +1,5 @@
 # arts
-playable
+playable   
 cleric - Speaki(Trickcal RE:VIVE)   
 duelist - Leets(Trickcal RE:VIVE)   
 mage - Diana(Trickcal RE:VIVE)   
