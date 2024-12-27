@@ -11,6 +11,8 @@ rogue - Rufo(Trickcal RE:VIVE)
    
 npc   
 ghost - Rim(Trickcal RE:VIVE)    
+상점 주인 - 시스트   
+지팡이 깎는 노인 - 피코라   
    
 mob   
 1지역   
@@ -25,7 +27,6 @@ mob
 게 - 슈팡   
 파란게 - 보라색달팽이 이새끼가 누구임?(https://gall.dcinside.com/mgallery/board/view/?id=rollthechess&no=86238)   
 
-todo   
 2지역   
 해골 - 멜룬   
 도둑 - 우이   
@@ -36,5 +37,11 @@ DM-100 - 엘레나의 드론비슷하게 생긴것
 영혼 사령술사 - 바롱   
 텐구 암살자 - 칸나   
 부패심장 - 포셔의 물약   
+부패심장 덩굴 - 마녀들 보라색 덩굴   
+   
+todo   
+2지역   
+잉겁불 정령 - 후순위로 생각   
 
-지팡이 깎는 노인 - 피코라   
+3지역   
+박쥐 - 날아다니는 무언가   
